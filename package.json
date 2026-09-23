@@ -1,0 +1,11 @@
+{
+  "name": "omniroute",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "omniroute --no-open --port $PORT"
+  },
+  "dependencies": {
+    "omniroute": "^3.8.50"
+  }
+}
